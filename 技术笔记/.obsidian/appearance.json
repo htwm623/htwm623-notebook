@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 21,
+  "translucency": false,
+  "cssTheme": "Things",
+  "textFontFamily": "Segoe Print,楷体"
 }

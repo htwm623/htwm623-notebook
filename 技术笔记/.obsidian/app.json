@@ -1,1 +1,5 @@
-{}
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "readableLineLength": false
+}

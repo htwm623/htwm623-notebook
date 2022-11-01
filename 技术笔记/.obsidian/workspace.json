@@ -4,16 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad4e8c354f65a02",
+        "id": "6ddc8a8412a96d81",
         "type": "tabs",
+        "dimension": 91.36442141623489,
         "children": [
           {
-            "id": "0c7310f3a7e0e5a3",
+            "id": "2d0f2a6e5a5948d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "React-Router.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c48359712bd6b50f"
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "945bc6b47deeee07",
+        "type": "tabs",
+        "dimension": 8.635578583765112,
+        "children": [
+          {
+            "id": "f4c55ca366d42b60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React-Router.md"
+              }
+            },
+            "group": "c48359712bd6b50f"
           }
         ]
       }
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "621854e8a27c38d5",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React-Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React-Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React-Router.md"
+              }
             }
           }
         ]
@@ -128,6 +157,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c7310f3a7e0e5a3",
-  "lastOpenFiles": []
+  "active": "f4c55ca366d42b60",
+  "lastOpenFiles": [
+    "常用配置文件.md",
+    "React-Router.md",
+    "template/技术笔记模板.md",
+    "Typescript/TypeScript零散记录(待后续整理).md",
+    "Typescript/TypeScript项目创建.md",
+    "待整理笔记.md",
+    "cypress简单使用.md",
+    "Typescript/TypeScript普通项目.md"
+  ]
 }
