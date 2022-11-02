@@ -79,9 +79,11 @@ const resolve = dir => require('path').resolve(__dirname, dir)
   
 module.exports = {  
   ...
-  alias: {  
-    '@': resolve('src')  
-  }  
+	webpack: {  
+	  alias: {  
+		'@': resolve('src')  
+	  }  
+	}
   ...
 };
 
@@ -93,11 +95,12 @@ module.exports = {
 {  
   "compilerOptions": {  
 	...
-    "paths": {  
-      "@/*": [  
-        "src/*"  
-      ]  
-    },
+    "baseUrl": "./",  
+	"paths": {  
+	  "@/*": [  
+		"src/*"  
+	  ]  
+	},
     ... 
 
 }
