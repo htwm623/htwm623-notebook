@@ -4,43 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ddc8a8412a96d81",
+        "id": "b771f095a5adde77",
         "type": "tabs",
-        "dimension": 91.36442141623489,
         "children": [
           {
-            "id": "2d0f2a6e5a5948d2",
+            "id": "286f4a217f3129d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React-Router.md",
+                "file": "Craco配置.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
-            },
-            "group": "c48359712bd6b50f"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "945bc6b47deeee07",
-        "type": "tabs",
-        "dimension": 8.635578583765112,
-        "children": [
-          {
-            "id": "f4c55ca366d42b60",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "React-Router.md"
-              }
-            },
-            "group": "c48359712bd6b50f"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React-Router.md",
+                "file": "Craco配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React-Router.md",
+                "file": "Craco配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React-Router.md"
+                "file": "Craco配置.md"
               }
             }
           }
@@ -157,10 +138,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4c55ca366d42b60",
+  "active": "286f4a217f3129d3",
   "lastOpenFiles": [
-    "常用配置文件.md",
     "React-Router.md",
+    "Craco配置.md",
+    "常用配置文件.md",
     "template/技术笔记模板.md",
     "Typescript/TypeScript零散记录(待后续整理).md",
     "Typescript/TypeScript项目创建.md",
